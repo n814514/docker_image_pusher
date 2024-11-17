@@ -1,1 +1,1 @@
-library/redis:dd181281d
+--platform=linux/arm64 redis:latest
