@@ -1,1 +1,1 @@
---platform=linux/arm64 pgrouting/pgrouting:latest
+--platform=linux/arm64 nickblah/pgrouting:12-postgis-3-pgrouting-3.6.2
