@@ -1,1 +1,1 @@
---platform=linux/arm64 pgrouting/pgrouting
+--platform=linux/arm64 pgrouting/pgrouting:latest
