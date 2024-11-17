@@ -1,1 +1,1 @@
-arm64v8/redis
+library/redis:latest
