@@ -1,5 +1,3 @@
 nginx
 #支持私库
-arm64v8/redis:6.2.16
-#支持指定架构
---platform=linux/arm64/v8 arm64v8/redis:6.2.16
+arm64v8/redis
