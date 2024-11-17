@@ -1,1 +1,1 @@
-library/redis:latest
+library/redis:6-alpine:dd181281d
