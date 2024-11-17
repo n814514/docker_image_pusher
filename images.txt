@@ -1,1 +1,1 @@
---platform=linux/arm64 redis:latest
+--platform=linux/arm64 minio:latest
