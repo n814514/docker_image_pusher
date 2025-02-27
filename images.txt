@@ -1,1 +1,1 @@
---platform=linux/arm64  library/nginx:latest
+--platform=linux/arm64  redis:7.4.2
