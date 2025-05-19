@@ -1,2 +1,2 @@
 --platform=linux/arm64  redis:7.4.2
---platform=linux/arm64  huasisoft/kkfileview:v4.1.0
+nginx:1.26.3
